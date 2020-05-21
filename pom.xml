@@ -1,10 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.topcmm.liao</groupId>
-    <artifactId>liao-haserver</artifactId>
+    <groupId>play</groupId>
+    <artifactId>play</artifactId>
     <version>0.0.1</version>
-    <name>liao-haserver</name>
+    <name>play</name>
     <description>High availability chat servers.</description>
 
     <properties>
@@ -18,16 +19,6 @@
             <groupId>org.javassist</groupId>
             <artifactId>javassist</artifactId>
             <version>3.17.1-GA</version>
-        </dependency>
-        <dependency>
-            <groupId>liao-core</groupId>
-            <artifactId>liao-core</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.topcmm.libs</groupId>
-            <artifactId>liao-hacommons</artifactId>
-            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.yaml</groupId>
