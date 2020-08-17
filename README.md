@@ -1,2 +1,4 @@
 # oj-java
-for online judge
+- for online judge
+- maven project classpath is ./src/main/java/xxx
+- ./pom.xml
