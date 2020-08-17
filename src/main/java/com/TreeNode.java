@@ -1,4 +1,4 @@
-package main.com;
+package com;
 
 public class TreeNode {
     int val;
